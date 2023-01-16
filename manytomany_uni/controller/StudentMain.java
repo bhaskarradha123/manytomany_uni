@@ -19,72 +19,7 @@ public class StudentMain {
 		CousreDao dao = new CousreDao();
 		StudentDao daoo = new StudentDao();
 
-		// Course c1=new Course();
-		//// c1.setId(1001);
-		// c1.setName("java");
-		// c1.setFees(10000);
-		// c1.setDuration(2);
-		////
-		// Course c2=new Course();
-		//// c2.setId(1002);
-		// c2.setName("advance java");
-		// c2.setFees(1000);
-		// c2.setDuration(1);
-		////
-		//// Course c3=new Course();
-		//// c3.setId(1003);
-		//// c3.setName("sql");
-		//// c3.setFees(5000);
-		//// c3.setDuration(1);
-		////
-		////
-		// Student s1=new Student();
-		// s1.setId(1);
-		// s1.setName("radha");
-		// s1.setPhone(987654);
-		// s1.setAddress("palamaner");
-		////
-		////
-		//// Student s2=new Student();
-		//// s2.setId(2);
-		//// s2.setName("indra");
-		//// s2.setPhone(987654);
-		//// s2.setAddress("palamaner");
-		////
-		////
-		//// Student s3=new Student();
-		//// s3.setId(3);
-		//// s3.setName("harika");
-		//// s3.setPhone(987654);
-		//// s3.setAddress("palamaner");
-		////
-		////
-		// List<Course>l1=new ArrayList<Course>();
-		// l1.add(c1);
-		// l1.add(c2);///list contain java and ad java
-		////
-		//// List<Course>l2=new ArrayList<Course>();
-		//// l2.add(c2);
-		//// l2.add(c3);
-		////
-		////
-		//// //assiging into the student
-		// s1.setCourse(l1);
-		//// s2.setCourse(l1);
-		//// s3.setCourse(l2);
-		////
-		// EntityManagerFactory
-		// entityManagerFactory=Persistence.createEntityManagerFactory("radha");
-		// EntityManager entityManager=entityManagerFactory.createEntityManager();
-		// EntityTransaction entityTransaction=entityManager.getTransaction();
-		// entityTransaction.begin();
-		//// entityManager.persist(c1);
-		//// entityManager.persist(c2);
-		//// entityManager.persist(c3);
-		// entityManager.persist(s1);
-		//// entityManager.persist(s2);
-		//// entityManager.persist(s3);
-		//// entityTransaction.commit();
+		
 
 		Scanner sc = new Scanner(System.in);
 
